@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pacman2" size="100.000000 99.058823" />
+    <ImageTarget name="portal2" size="100.000000 102.776817" />
+    <ImageTarget name="pokeball" size="100.000000 101.909492" />
+    <ImageTarget name="Coin" size="100.000000 102.374390" />
+  </Tracking>
+</QCARConfig>
